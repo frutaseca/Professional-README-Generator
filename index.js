@@ -39,7 +39,7 @@ Github: https://github.com/${github}<br/>
 Email: ${email}
 
 ## Link to walkthrough video
-
+https://drive.google.com/file/d/1AcrB7D4JSjF1eOrasNynZ308s8af7BFs/view
 `
 
 inquirer
